@@ -5,7 +5,7 @@ install zerotermux dulu pasang script
 
 linnk download 👇👇👇
 
-https://github.com/hanxinhao000/ZeroTermux/releases/tag/release
+[https://github.com/hanxinhao000/ZeroTermux/releases/tag/release](https://github.com/hanxinhao000/ZeroTermux/releases/tag/release)
 
 git clone https://github.com/roothozoo/WHATSAPP-
 
